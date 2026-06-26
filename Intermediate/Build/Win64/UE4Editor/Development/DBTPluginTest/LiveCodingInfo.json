@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DBTPluginTest.cpp.obj": [
+			"AbilityCategoryUtils.cpp.obj",
+			"AbilityCounterComponent.cpp.obj",
+			"DBTAbilityBase.cpp.obj",
+			"DBTBehaviorTreeDataManager.cpp.obj",
+			"DBTPluginTest.cpp.obj",
+			"DynamicAIControllerCustomization.cpp.obj",
+			"DynamicRootNodeCustomization.cpp.obj",
+			"DynamicTaskNode.cpp.obj",
+			"MaxPropertiesAdjusterComponent.cpp.obj"
+		],
+		"Module.DBTPluginTest.gen.cpp.obj": [
+			"AbilityCategoryUtils.gen.cpp.obj",
+			"AbilityCounterComponent.gen.cpp.obj",
+			"DBTAbilityBase.gen.cpp.obj",
+			"DBTBehaviorTreeDataManager.gen.cpp.obj",
+			"DBTPluginTest.init.gen.cpp.obj",
+			"MaxPropertiesAdjusterComponent.gen.cpp.obj"
+		]
+	}
+}
