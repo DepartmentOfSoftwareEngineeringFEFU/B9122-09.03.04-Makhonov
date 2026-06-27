@@ -27,8 +27,13 @@
 После добавление плагина, во всех AIController появится категория Dynamic Behavior, в которой можно будет активировать динамическое изменение и временной промежуток, спустя который будет запущено изменение параметров. Важно здесь то, что перменные (изменяемые, с полем MAX) которые будут у AI и Player Controller должны быть одинаковы. В папке проекта, в разделе Config создайте json файл, в котором будут хранится изменяемые переменные и назовите его `GASCharacterMaxValues`.
 
 ## Визуализация
-1. Измененный AI Controller.
-2. Измененное создание Blueprint Class.
-3. Работа с узлом Sequence в меню дерева поведения.
-4. Работа с узлом Task в меню дерева поведения.
-5. Работа со способностью персонажа.
+1. Измененный AI Controller.\
+![alt text](https://github.com/DepartmentOfSoftwareEngineeringFEFU/B9122-09.03.04-Makhonov/blob/main/Screenshots/11.png)
+3. Измененное создание Blueprint Class.\
+![alt text](https://github.com/DepartmentOfSoftwareEngineeringFEFU/B9122-09.03.04-Makhonov/blob/main/Screenshots/12.png)
+5. Работа с узлом Sequence в меню дерева поведения.\
+![alt text](https://github.com/DepartmentOfSoftwareEngineeringFEFU/B9122-09.03.04-Makhonov/blob/main/Screenshots/13.png)
+7. Работа с узлом Task в меню дерева поведения.\
+![alt text](https://github.com/DepartmentOfSoftwareEngineeringFEFU/B9122-09.03.04-Makhonov/blob/main/Screenshots/14.png)
+9. Работа со способностью персонажа.\
+![alt text](https://github.com/DepartmentOfSoftwareEngineeringFEFU/B9122-09.03.04-Makhonov/blob/main/Screenshots/15.png)
